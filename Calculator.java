@@ -1,3 +1,6 @@
+/**
+ * A simple calculator with basic arithmetic operations.
+ */
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
