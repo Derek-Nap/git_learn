@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class Calculator extends JFrame implements ActionListener {
-
+    private static final String VERSION = "1.0-main";
     private static final long serialVersionUID = 1L;
     JPanel[] row = new JPanel[5];
     JButton[] button = new JButton[19];
